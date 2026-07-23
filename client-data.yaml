@@ -1,0 +1,149 @@
+# clients/2026-01-30_william-quiceno/client-data.yaml
+# ═══════════════════════════════════════════════════════════════════
+
+# ─── DATOS BÁSICOS (del formulario) ───
+nombre: "William Dario Quiceno"
+nombre_corto: "William Quiceno"
+email: "wquiceno@gmail.com"
+telefono: "+57 3155233569"
+ubicacion: "Colombia"
+
+# ─── REDES SOCIALES ───
+redes:
+  linkedin: "https://linkedin.com/in/wquiceno1"
+  github: "https://github.com/wquiceno1"
+  twitter: null
+  website: null
+
+# ─── TÍTULO PROFESIONAL ───
+titulo: "Desarrollador Front-end"
+headline: "Front-end Developer especializado en aplicaciones web modernas, PWAs y experiencias de usuario accesibles"
+
+# ─── SOBRE MÍ ───
+sobre_mi: |
+  Desarrollador Front-end con experiencia construyendo interfaces web modernas y
+  mantenibles, enfocado en crear productos rápidos, accesibles y fáciles de usar.
+  Trabajo a diario con JavaScript, React y herramientas de maquetación moderna
+  para entregar soluciones escalables y bien estructuradas.
+
+  He participado en el desarrollo de aplicaciones web y PWAs, cuidando detalles
+  como performance, responsive design, manejo de estado, y consumo de APIs REST.
+  También he trabajado con Firebase para backend-as-a-service y pruebas
+  automatizadas con Playwright.
+
+  Me interesa seguir creciendo en roles de Front-end / Full Stack JavaScript,
+  idealmente en entornos donde se valoren las buenas prácticas y la mejora
+  continua del producto. Abierto a oportunidades en Colombia y LATAM, así como
+  posiciones remotas con equipos internacionales.
+
+# ─── EXPERIENCIA LABORAL ───
+# Fuente: LinkedIn (screenshot del cliente)
+experiencia:
+  - empresa: "Ilógica"
+    cargo: "Desarrollador Front-end"
+    periodo: "Mayo 2022 - Presente"
+    duracion: "3 años 9 meses"
+    ubicacion: "Colombia"
+    bullets:
+      - "Desarrollo de aplicaciones web con React y Angular"
+      - "Implementación de PWAs y Service Workers"
+      - "Consumo de APIs REST y manejo de estado"
+
+  - empresa: "Ilógica"
+    cargo: "Prácticas de Desarrollo"
+    periodo: "Noviembre 2021 - Mayo 2022"
+    duracion: "7 meses"
+    ubicacion: "Colombia"
+    bullets:
+      - "Desarrollo web con JavaScript y frameworks modernos"
+      - "Aprendizaje de buenas prácticas de desarrollo front-end"
+
+# ─── EDUCACIÓN ───
+# Fuente: LinkedIn (screenshot del cliente)
+educacion:
+  - institucion: "SENA"
+    titulo: "Tecnicatura en Desarrollo Web"
+    periodo: "Febrero 2020 - Julio 2022"
+    logros:
+      - "Formación técnica en desarrollo de software"
+      - "Especialización en tecnologías web"
+
+  - institucion: "Platzi"
+    titulo: "Cursos de JavaScript y Front-end"
+    periodo: "2022 - Presente"
+    logros:
+      - "Curso de Angular"
+      - "Curso de API REST con JavaScript"
+      - "Curso de Asincronismo"
+      - "Curso práctico de Front-end"
+
+# ─── SKILLS ───
+skills:
+  lenguajes: ["JavaScript", "TypeScript", "HTML", "CSS"]
+  frameworks: ["React", "Angular", "PWA", "Service Workers"]
+  backend: ["Firebase", "PHP", "MySQL", "APIs REST"]
+  testing: ["Playwright"]
+  otros: ["Git", "Responsive Design"]
+  all:
+    - "JavaScript"
+    - "TypeScript"
+    - "React"
+    - "Angular"
+    - "HTML"
+    - "CSS"
+    - "PWA"
+    - "Service Workers"
+    - "Firebase"
+    - "Playwright"
+    - "APIs REST"
+    - "Git"
+
+# ─── PROYECTOS (de GitHub) ───
+proyectos:
+  - nombre: "KIDS-POINTS"
+    descripcion: "PWA de gamificación para motivar a niños a completar tareas diarias. Sistema de puntos, control parental, y recompensas. Sin servidor, todo local en el dispositivo."
+    skills: ["JavaScript", "PWA", "Service Workers"]
+    link: "https://wquiceno1.github.io/KIDS-POINTS/"
+
+  - nombre: "Horarios PWA"
+    descripcion: "Aplicación web progresiva para gestión de horarios con backend en JavaScript."
+    skills: ["JavaScript", "PWA"]
+    link: "https://github.com/wquiceno1/horarios-pwa"
+
+  - nombre: "BiktionWeb"
+    descripcion: "Sitio web desarrollado para Biktion."
+    skills: ["JavaScript", "HTML", "CSS"]
+    link: "https://github.com/wquiceno1/BiktionWeb"
+
+  - nombre: "Tienda Genérica MinTIC"
+    descripcion: "Proyecto de tienda e-commerce desarrollado para el programa MinTIC 2022 de Colombia."
+    skills: ["Java"]
+    link: "https://github.com/wquiceno1/TiendaGenerica_equipo4"
+
+  - nombre: "Blog PHP"
+    descripcion: "Blog full-stack con HTML, CSS, PHP y MySQL."
+    skills: ["PHP", "MySQL", "HTML", "CSS"]
+    link: "https://github.com/wquiceno1/BlogPHP"
+
+# ─── IDIOMAS ───
+idiomas:
+  - idioma: "Español"
+    nivel: "Nativo"
+  - idioma: "English"
+    nivel: "<<FALTA: preguntar>>"
+
+# ─── PREFERENCIAS DEL CLIENTE ───
+preferencias:
+  estilo: "Corporativo/formal"
+  colores: "Verde"
+  dominio: null
+  notas: "mucha suerte y muchos exitos, ojalá puedan viajar a Suiza"
+
+# ─── METADATA ───
+_fuente: "Formulario + imagen 'Acerca de' + GitHub + LinkedIn screenshot"
+_fecha_extraccion: "2026-01-31"
+_template: "minimalista/minimal-mono"
+_dev: "Andre"
+_notas:
+  - "CV original era imagen PNG de 'Acerca de', no PDF"
+  - "Experiencia y educación obtenidas de screenshot de LinkedIn que envió el cliente"
